@@ -1,10 +1,10 @@
 <?php
 $actual = basename($_SERVER['PHP_SELF']);
 $menu = [
-  'index.php'      => 'Inicio',
-  'nosotros.php'   => 'Nosotros',
-  'formulario.php' => 'Formulario',
-  'perfil.php'     => 'Perfil',
+  'index.php'      => 'Base Rebelde',
+  'nosotros.php'   => 'La Alianza',
+  'formulario.php' => 'Holocomunicador',
+  'perfil.php'     => 'Archivo Jedi',
 ];
 ?>
 <!DOCTYPE html>

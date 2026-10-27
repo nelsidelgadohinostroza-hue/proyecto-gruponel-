@@ -1,4 +1,4 @@
-</main>
-<footer>© <?= date('Y') ?> - Proyecto Grupal</footer>
-</body>
-</html>
+   </main>
+   <footer>Hace mucho tiempo, en una galaxia lejana... © <?= date('Y') ?></footer>
+   </body>
+   </html>
